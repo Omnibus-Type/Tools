@@ -8,6 +8,7 @@ Type Proof es un desarrollo de Pablo Impallari y Pablo Cosgaya, basado en Fontdr
 
 ## Screenshots
 
+![Hamburg](https://github.com/Omnibus-Type/Tools/blob/organize/TypeProof/screenshots/hamburg.png)
 ![Alphabet](https://github.com/Omnibus-Type/Tools/blob/organize/TypeProof/screenshots/alphabet.png)
 
 ## Uso
