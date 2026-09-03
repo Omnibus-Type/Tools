@@ -18,7 +18,7 @@ TypeProof continues the **Font Testing Page**, originally developed by:
 building on the earlier work of:
 
 - **Fontdrag**
-- **FontTest**, by Dave Crossland
+- **FontTest**, by Dave Crossland [@davelab6](https://github.com/davelab6)
 
 ## Embedded typefaces
 
