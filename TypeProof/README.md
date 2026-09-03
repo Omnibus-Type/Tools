@@ -6,6 +6,10 @@ Type Proof es un desarrollo de Pablo Impallari y Pablo Cosgaya, basado en Fontdr
 
 ---
 
+## Screenshots
+
+![Alphabet](https://github.com/Omnibus-Type/Tools/tree/organize/TypeProof/alphabet.png)
+
 ## Uso
 
 Descargá `type-proof.html` y abrilo con doble clic en cualquier navegador moderno. No requiere instalación, servidor ni conexión a internet.
