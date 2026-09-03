@@ -10,15 +10,6 @@ This is a growing collection. Each tool is self-contained, needs no installation
 
 A self-contained type testing page: load a font and inspect it across contexts and sizes, with live OpenType-feature and variable-axis controls. It is a single HTML file — open it in a browser. No server, no build step, no dependencies.
 
-![TypeProof — Headlines, light theme](https://github.com/Omnibus-Type/Tools/TypeProof/screenshots/headlines.png)
-*Headlines view, light theme.*
-
-![TypeProof — Hamburgefonstiv, dark theme](https://github.com/Omnibus-Type/Tools/TypeProof/screenshots/hamburg.png)
-*Hamburg view, dark theme.*
-
-![TypeProof — a–z A–Z 0–9](https://github.com/Omnibus-Type/Tools/TypeProof/screenshots/alphabet.png)
-*Alphabet and figures view.*
-
 ### Features
 
 - Load `.ttf`, `.otf`, `.woff` or `.woff2` by drag-and-drop or file picker. Fonts are processed entirely in the browser — nothing is uploaded.
