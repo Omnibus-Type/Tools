@@ -5,7 +5,7 @@ collaboration of Andrés Torresi.
 
 ## Maintainers
 
-- Pablo Cosgaya — Omnibus-Type
+- Pablo Cosgaya — [@Omnibus-Type](https://github.com/Omnibus-Type)
 - Andrés Torresi — [@andrestelex](https://github.com/andrestelex)
 
 ## TypeProof
